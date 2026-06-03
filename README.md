@@ -1,4 +1,4 @@
-# Hi/Hola I'm Alejandro Paz
+# Hi/Hola 👋 I'm Alejandro Paz
 
 ### Senior Full-Stack Software Engineer 🇸🇻
 
@@ -65,7 +65,7 @@ for companies including:
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Paz-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Paz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alepaz/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-alepaz-black?style=for-the-badge&logo=github)](https://github.com/alepaz)
 
@@ -73,6 +73,6 @@ for companies including:
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alepaz&show_icons=true)
+![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alepaz&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alepaz&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alepaz&layout=compact&theme=transparent)
