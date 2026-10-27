@@ -96,16 +96,6 @@ I've worked across:
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Paz-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/alepaz/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-alepaz-black?style=for-the-badge\&logo=github)](https://github.com/alepaz)
-
-[![Email](https://img.shields.io/badge/Email-alepazte@hotmail.com-red?style=for-the-badge\&logo=gmail)](mailto:alepazte@hotmail.com)
-
----
-
 <details>
 <summary>📜 Professional Highlights</summary>
 
